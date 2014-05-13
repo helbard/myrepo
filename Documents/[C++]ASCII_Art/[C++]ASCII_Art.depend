@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1393007984 source:/home/markus/Documents/[C++]ASCII_Art/main.cpp
+	"Header.h"
+
+1390944132 /home/markus/Documents/[C++]ASCII_Art/ClearScreenHeader.h
+
+1393006270 /home/markus/Documents/[C++]ASCII_Art/Header.h
+	<iostream>
+	<fstream>
+	<chrono>
+	<thread>
+
+1393006270 source:/home/markus/Documents/[C++]ASCII_Art/functions.cpp
+	"Header.h"
+
+1393008002 source:/home/markus/Documents/[C++]ASCII_Art/gtk.cpp
+	<gtk/gtk.h>
+	<glib.h>
+
