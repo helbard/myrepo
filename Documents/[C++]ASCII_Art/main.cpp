@@ -29,7 +29,7 @@ while (x==0)
 //ClearScreen();
 //source logo
 
-	std::cout << "Do you know the laughingman? (y/n) or press q for quit";
+    std::cout << "Do you know the laughingman? (y/n) or press q for quit";
     std::cin >> cAnswer;
 
 	switch (cAnswer) {
